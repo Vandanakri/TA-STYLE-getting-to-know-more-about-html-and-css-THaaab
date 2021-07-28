@@ -1,0 +1,27 @@
+nav {
+    color: blue;
+}
+img {
+    width: 400px;
+}
+header {
+    background-color: rgb(196, 107, 196);
+    height: 30px;
+    font-size:x-small
+}
+.main {
+    text-align: center;
+}
+h5 {
+    margin-right: 72mm;
+}
+h2 {
+    margin-right: 43mm;
+}
+h6 {
+    margin-right: 10mm;
+}
+footer {
+    background-color: rgb(139, 139, 238);
+    height: 30px;
+}
